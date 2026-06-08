@@ -28,4 +28,4 @@ Ridgeline Technology Solutions LLC is an independent technical consultancy organ
 * **Principal Consultant:** William Kyle Brooks
 * **Location:** Bowling Green, Kentucky
 * **Email:** kyle@ridgelinetechsolutions.com
-* **Professional Network:** [Your LinkedIn Profile URL Goes Here]
+* **Professional Network:** https://www.linkedin.com/in/william-brooks-a926b018/
